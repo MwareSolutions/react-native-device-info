@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/f250885c8f72f263bd7f5cfc15b142fc/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/f250885c8f72f263bd7f5cfc15b142fc/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/f250885c8f72f263bd7f5cfc15b142fc/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/f250885c8f72f263bd7f5cfc15b142fc/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/f250885c8f72f263bd7f5cfc15b142fc/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/f250885c8f72f263bd7f5cfc15b142fc/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/anim/abc_fade_out.xml"
+    }
+]

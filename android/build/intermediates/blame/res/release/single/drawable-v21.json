@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/84500f989d5ec64e71ac336e3340cb74/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

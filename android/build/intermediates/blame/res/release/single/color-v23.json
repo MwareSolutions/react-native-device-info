@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/sanderkerstens/Downloads/Development/APPS_RN/mware.rn.tvapp/node_modules/react-native-device-info/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/sanderkerstens/.gradle/caches/transforms-2/files-2.1/66c255b6888785ed689533a554c49e20/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]

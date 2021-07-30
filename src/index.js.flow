@@ -100,6 +100,7 @@ declare module.exports: {
   getSerialNumberSync: () => string,
   getSystemAvailableFeatures: () => Promise<string[]>,
   getSystemAvailableFeaturesSync: () => string[],
+  getAppInstalled: () => Promise<boolean>,
   getSystemApps: () => Promise<string[]>,
   getSystemAppsSync: () => string[],
   getSystemName: () => string,

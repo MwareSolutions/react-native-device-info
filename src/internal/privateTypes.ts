@@ -101,6 +101,7 @@ interface ExposedNativeMethods {
   getSerialNumberSync: () => string;
   getSystemAvailableFeatures: () => Promise<string[]>;
   getSystemAvailableFeaturesSync: () => string[];
+  getAppInstalled: (packageName: string) => Promise<boolean>;
   getSystemApps: () => Promise<string[]>;
   getSystemAppsSync: () => string[];
   getTags: () => Promise<string>;

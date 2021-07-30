@@ -802,6 +802,8 @@ export async function isPinOrFingerprintSet() {
   return false;
 }
 
+
+
 export function isPinOrFingerprintSetSync() {
   if (Platform.OS === 'android' || Platform.OS === 'ios' || Platform.OS === 'windows') {
     return RNDeviceInfo.isPinOrFingerprintSetSync();
@@ -1212,7 +1214,13 @@ export async function getSystemAppsSync(){
   }
   return [];
 }
-
+export async function getAppInstalled(packageName: string) {
+  if (Platform.OS === 'android') {
+    console.log(packageName)
+    return RNDeviceInfo.getAppInstalled(packageName);
+  }
+  return false;
+}
 
 export async function isLocationEnabled() {
   if (Platform.OS === 'android' || Platform.OS === 'ios' || Platform.OS === 'web') {
@@ -1436,8 +1444,9 @@ const deviceInfoModule: DeviceInfoModule = {
   getSerialNumberSync,
   getSystemAvailableFeatures,
   getSystemAvailableFeaturesSync,
+  getAppInstalled,
   getSystemApps,
-  getSystemAppsSync,
+  getSystemAppsSync, 
   getSystemName,
   getSystemVersion,
   getTags,

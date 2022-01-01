@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage     = package['repository']['url']
   s.platforms     = { :ios => "9.0", :tvos => "9.2" }
   s.ios.deployment_target = '9.0'
-  s.tvos.deployment_target = '10.0'
+  s.tvos.deployment_target = '11.0'
 
   s.source       = { :git => "https://github.com/react-native-community/react-native-device-info.git", :tag => "v#{s.version}" }
   s.source_files  = "ios/**/*.{h,m}"

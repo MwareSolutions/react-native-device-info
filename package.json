@@ -28,9 +28,7 @@
     "lint": "npx eslint ./ --ignore-pattern example --ignore-pattern node_modules --fix --quiet",
     "shipit": "npm run clean && np",
     "test": "echo no tests defined",
-    "precommit": "lint-staged && npm run analyze",
-    "build": "bob build",
-    "prepare": "bob build"
+    "precommit": "lint-staged && npm run analyze"
   },
   "lint-staged": {
     "*.ts": [

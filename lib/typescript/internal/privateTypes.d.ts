@@ -163,5 +163,7 @@ export interface DeviceInfoModule extends ExposedNativeMethods {
     useHasSystemFeature: (feature: string) => AsyncHookResult<boolean>;
     useIsEmulator: () => AsyncHookResult<boolean>;
     usePowerState: () => PowerState | {};
+    getAppInstalled: (feature: string) =>  Promise<boolean>;
+    getSystemApps: () =>  Promise<string[]>;
 }
 export {};

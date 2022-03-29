@@ -129,5 +129,7 @@ export declare function useFirstInstallTime(): AsyncHookResult<number>;
 export declare function useDeviceName(): AsyncHookResult<string>;
 export declare function useHasSystemFeature(feature: string): AsyncHookResult<boolean>;
 export declare function useIsEmulator(): AsyncHookResult<boolean>;
+export declare function getAppInstalled(feature: string): Promise<boolean>;
+export declare function getSystemApps(): Promise<string[]>;
 declare const deviceInfoModule: DeviceInfoModule;
 export default deviceInfoModule;
